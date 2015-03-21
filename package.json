@@ -35,6 +35,6 @@
     "node": ">=0.6"
   },
   "dependencies": {
-    "estraverse": "3.1.0"
+    "estraverse": "~3.1.0"
   }
 }
